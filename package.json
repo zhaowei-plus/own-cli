@@ -1,0 +1,62 @@
+{
+  "_from": "own-cli",
+  "_id": "own-cli@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-No+BeYqYfwf3iHDpqw+MdVQiydNQapuhFE7bbwMyVUOklyYJW41DXqtJCDETKzIVqgq60jkV7hpZZfBmlBdGAA==",
+  "_location": "/own-cli",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "own-cli",
+    "name": "own-cli",
+    "escapedName": "own-cli",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://172.16.101.38:4873/zcy-cli/-/zcy-cli-1.0.3.tgz",
+  "_shasum": "8758c093c8058fbbd6bc84e8d2b66886b54d799a",
+  "_spec": "zcy-cli",
+  "_where": "/Users/zhaowei/Project/zcy-template-front",
+  "author": {
+    "name": "snail"
+  },
+  "bin": {
+    "zcy": "bin/zcy",
+    "zcy-init": "bin/zcy-init"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "async": "^2.6.0",
+    "chalk": "^2.3.0",
+    "commander": "^2.13.0",
+    "consolidate": "^0.15.0",
+    "download": "^6.2.5",
+    "download-git-repo": "^1.0.2",
+    "ejs": "^2.5.7",
+    "git-clone": "^0.1.0",
+    "inquirer": "^5.0.1",
+    "metalsmith": "^2.3.0",
+    "multimatch": "^2.1.0",
+    "ora": "^1.4.0",
+    "read-metadata": "^1.0.0",
+    "semver": "^5.5.0",
+    "user-home": "^2.0.0"
+  },
+  "deprecated": false,
+  "description": "zcy-cli",
+  "engines": {
+    "node": ">=8"
+  },
+  "license": "ISC",
+  "name": "zcy-cli",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3"
+}
