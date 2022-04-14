@@ -32,7 +32,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "async": "^2.6.0",
+    "async": "^3.2.2",
     "chalk": "^2.3.0",
     "commander": "^2.13.0",
     "consolidate": "^0.15.0",
